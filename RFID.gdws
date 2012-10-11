@@ -4,7 +4,7 @@
 	IconCategory = "Toolbars">
 	<OpenFiles
 		CID = "1"
-		LastActive = "33">
+		LastActive = "34">
 		<File
 			FileID = "E4B09838-4547-4ABB-B159B0DA3F74E95F"
 			RootPath = "$Container"
@@ -41,34 +41,28 @@
 			RelativePathname = "dianjianyichang.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "DD211D83-918B-4A66-974FA6C4A48AEE78"
 			RootPath = "$Container"
-			RelativePathname = "xunjianxiangManage.gui"
+			RelativePathname = "ItemNew.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "67F77103-65A1-46F1-84757AAB657F7B9F"
 			RootPath = "$Container"
-			RelativePathname = "Editxunjianxiang.gui"
+			RelativePathname = "ItemEdit.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "D17D0FD9-8CD2-4456-9F647D2986F247E0"
 			RootPath = "$Container"
-			RelativePathname = "xunjiandianManage.gui"
+			RelativePathname = "PointNew.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "4B84F094-41EA-4F90-9F8FF374BD6F65C7"
 			RootPath = "$Container"
-			RelativePathname = "Eitxunjiandian.gui"
+			RelativePathname = "PointEdit.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "1B46BC7D-E8F9-4265-B0860C0ACFF2D156"
 			RootPath = "$Container"
-			RelativePathname = "Editxunjianluxian.gui"
+			RelativePathname = "RouteEdit.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "E3EB4379-3EB4-488A-BFB54E5510DB95A9"
 			RootPath = "$Container"
-			RelativePathname = "xunjianluxianManage.gui"
+			RelativePathname = "RouteNew.gui\"
 			ViewSettings = ""/>
 		<File
 			FileID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
@@ -161,14 +155,16 @@
 			RelativePathname = "Main.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "0A97F1DC-6700-4DF5-A1CBAA44F385B0DF"
 			RootPath = "$Container"
 			RelativePathname = "CardNew.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "DF846C93-7389-4F50-A19341386B1A28C2"
 			RootPath = "$Container"
 			RelativePathname = "CardEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "RouteNew.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>
