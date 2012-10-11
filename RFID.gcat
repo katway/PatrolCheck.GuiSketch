@@ -15,7 +15,7 @@
 			OriginalPath = "RFID.autosave"/>
 		<FileInfo
 			ID = "0A97F1DC-6700-4DF5-A1CBAA44F385B0DF"
-			RelativePath = "luruxinka.gui"
+			RelativePath = "CardNew.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "luruxinka.gui"/>
 		<FileInfo
@@ -160,7 +160,7 @@
 			OriginalPath = "xunjianxiangManage.gui"/>
 		<FileInfo
 			ID = "DF846C93-7389-4F50-A19341386B1A28C2"
-			RelativePath = "xinkaEdit.gui"
+			RelativePath = "CardEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "xinkaEdit.gui"/>
 		<FileInfo

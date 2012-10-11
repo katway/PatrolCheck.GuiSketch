@@ -75,9 +75,9 @@
 		<Element
 			CID = "1723881670"
 			Type = "HorizontalSeparatorLine"
-			X = "118"
-			Y = "266"
-			Width = "597"
+			X = "220"
+			Y = "308"
+			Width = "497"
 			Height = "12"
 			Flags = "2"/>
 		<Element
@@ -111,27 +111,6 @@
 			DisabledFillColour = "236,233,216,0,16"
 			BorderColour = "164,185,127,0,12"/>
 		<Element
-			CID = "1723870530"
-			Type = "TextButton"
-			X = "187"
-			Y = "528"
-			Width = "75"
-			Height = "23"
-			Flags = "0"
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "编辑"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
 			CID = "1723863154"
 			Type = "TextButton"
 			X = "412"
@@ -152,27 +131,6 @@
 			MarginTop = "0"
 			MarginBottom = "0"
 			AutoNavType = "Cancel"/>
-		<Element
-			CID = "1723886244"
-			Type = "TextButton"
-			X = "299"
-			Y = "526"
-			Width = "75"
-			Height = "23"
-			Flags = "0"
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "删除"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
 		<Element
 			CID = "2131653442"
 			Type = "StaticText"
@@ -318,10 +276,10 @@
 			DisabledFillColour = "236,233,216,0,16"
 			BorderColour = "164,185,127,0,12"/>
 		<Element
-			CID = "2102815059"
+			CID = "912731696"
 			Type = "Table"
-			X = "125"
-			Y = "-21"
+			X = "121"
+			Y = "-35"
 			Width = "599"
 			Height = "276"
 			Flags = "0"
@@ -373,7 +331,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "7"
-					Heading = "新卡编号"
+					Heading = "标签卡编号"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -387,8 +345,8 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "3"
-					Heading = "新卡名称"
-					Width = "80"
+					Heading = "名称"
+					Width = "120"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -401,8 +359,8 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "28"
-					Heading = "所属人员名称"
-					Width = "80"
+					Heading = "别名"
+					Width = "120"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -415,21 +373,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "29"
-					Heading = "所属巡检点名称"
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "30"
-					Heading = "指定岗位"
+					Heading = "用途"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -443,8 +387,8 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "9"
-					Heading = ""
-					Width = "80"
+					Heading = "标签卡唯一码"
+					Width = "200"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -505,42 +449,9 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-				</Row>
-				<Row
-					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
 					<Cell>
 						
 					</Cell>
@@ -586,15 +497,33 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
 					<Cell>
 						
 					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
 					<Cell>
 						
 					</Cell>
@@ -619,6 +548,48 @@
 				</Row>
 			</Data>
 		</Element>
+		<Element
+			CID = "912730918"
+			Type = "TextButton"
+			X = "534"
+			Y = "267"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "编辑"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "912741422"
+			Type = "TextButton"
+			X = "624"
+			Y = "267"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "删除"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
 	</Elements>
 	<Connections
 		CID = "2"/>
