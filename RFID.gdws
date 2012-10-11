@@ -4,7 +4,7 @@
 	IconCategory = "Toolbars">
 	<OpenFiles
 		CID = "1"
-		LastActive = "28">
+		LastActive = "33">
 		<File
 			FileID = "E4B09838-4547-4ABB-B159B0DA3F74E95F"
 			RootPath = "$Container"
@@ -141,11 +141,6 @@
 			RelativePathname = "banciEdit.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "DF846C93-7389-4F50-A19341386B1A28C2"
-			RootPath = "$Container"
-			RelativePathname = "CardEditDelete.gui"
-			ViewSettings = ""/>
-		<File
 			FileID = "876FAA79-7E41-4985-82418FE939B2DA0A"
 			RootPath = "$Container"
 			RelativePathname = "巡检点坐标位置.gui"
@@ -169,6 +164,11 @@
 			FileID = "0A97F1DC-6700-4DF5-A1CBAA44F385B0DF"
 			RootPath = "$Container"
 			RelativePathname = "CardNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "DF846C93-7389-4F50-A19341386B1A28C2"
+			RootPath = "$Container"
+			RelativePathname = "CardEditDelete.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>
