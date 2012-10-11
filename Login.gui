@@ -1,0 +1,290 @@
+<Screen
+	CID = "580714644"
+	AppID = "2"
+	AppVer = "4.2.116.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "580742874"
+			Type = "FrameWindow"
+			X = "-226"
+			Y = "-103"
+			Width = "512"
+			Height = "254"
+			Flags = "0"
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Title = "登录"
+			TitleBarHeight = "15"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "1"
+			Icon = ""/>
+		<Element
+			CID = "580719747"
+			Type = "TextButton"
+			X = "133"
+			Y = "87"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "登录"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "580726025"
+			Type = "ComboBox"
+			X = "-21"
+			Y = "9"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "192,192,255,0,0"/>
+		<Element
+			CID = "580744738"
+			Type = "EditBox"
+			X = "-21"
+			Y = "49"
+			Width = "118"
+			Height = "21"
+			Flags = "4098"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Password"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "580719945"
+			Type = "StaticText"
+			X = "-181"
+			Y = "-61"
+			Width = "436"
+			Height = "59"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,0"
+			Typeface = "Tahoma"
+			FontAttributes = "0"
+			TextSize = "220"
+			Text = "山东海化RFID智能巡检管理系统"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "580743470"
+			Type = "ListBox"
+			X = "350"
+			Y = "27"
+			Width = "151"
+			Height = "130"
+			Flags = "2"
+			VariableName = "Food"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "11"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "3"
+				Value = "张征"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "8"
+				Value = "秦方"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "9"
+				Value = "何良"
+				IsSelected = "1"/>
+			<ListBoxItem
+				ItemID = "10"
+				Value = "万方"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "4"
+				Value = "郑超"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "5"
+				Value = "沈杰"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "6"
+				Value = "王伟"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "7"
+				Value = "刘浩"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "1213019414"
+			Type = "StaticText"
+			X = "-109"
+			Y = "-2"
+			Width = "100"
+			Height = "40"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "用户名："
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1213033276"
+			Type = "StaticText"
+			X = "-111"
+			Y = "44"
+			Width = "100"
+			Height = "40"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "密  码："
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "364597030"
+			Type = "Component"
+			X = "446"
+			Y = "288"
+			Width = "994"
+			Height = "636"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "B0C645DE-CCAD-481F-B93651D5D4686ADE"
+			RootPath = "$Container"
+			Filename = "Main.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "580745061"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "580726025"
+			TargetRefID = "580743470"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "364582957"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = ""
+			SourceRefID = "580719747"
+			TargetRefID = "364597030"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "580715837"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

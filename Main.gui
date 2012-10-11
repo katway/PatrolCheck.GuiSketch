@@ -1,0 +1,1934 @@
+<Screen
+	CID = "1174750237"
+	AppID = "2"
+	AppVer = "4.2.116.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1174762523"
+			Type = "FrameWindow"
+			X = "65"
+			Y = "-573"
+			Width = "994"
+			Height = "636"
+			Flags = "0"
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "山东海化RFID智能巡检管理系统"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "7"
+			Icon = "DefaultApp"/>
+		<Element
+			CID = "1174742143"
+			Type = "MenuBar"
+			X = "74"
+			Y = "-545"
+			Width = "457"
+			Height = "22"
+			Flags = "2"
+			TopEdge = "Flat"
+			BottotmEdge = "Raised"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "9"
+			LeftMargin = "0"
+			Mirror = "0">
+			<MenuBarItem
+				Item = "巡检项模板"
+				ItemID = "8"/>
+			<MenuBarItem
+				Item = "任务管理"
+				ItemID = "1"/>
+			<MenuBarItem
+				Item = "&amp;统计报表"
+				ItemID = "2"/>
+			<MenuBarItem
+				Item = "&amp;巡检信息"
+				ItemID = "3"/>
+			<MenuBarItem
+				Item = "基础信息"
+				ItemID = "4"/>
+			<MenuBarItem
+				Item = "卡片管理"
+				ItemID = "6"/>
+			<MenuBarItem
+				Item = "&amp;Help"
+				ItemID = "5"/>
+		</Element>
+		<Element
+			CID = "1077085388"
+			Type = "MenuPopup"
+			X = "-140"
+			Y = "-751"
+			Width = "74"
+			Height = "134"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "9"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "新建"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "CommandOption"
+				Item = "编辑"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "7"
+				Type = "CommandOption"
+				Item = "删除"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "8"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "审核"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "下发"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "退出"
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1077116338"
+			Type = "MenuPopup"
+			X = "-138"
+			Y = "-546"
+			Width = "122"
+			Height = "88"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "7"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "人员出勤"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "巡检项统计"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "出勤异常统计"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "点检异常统计"
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1077092976"
+			Type = "MenuPopup"
+			X = "-173"
+			Y = "-347"
+			Width = "134"
+			Height = "88"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "9"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "巡检点管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "CommandOption"
+				Item = "巡检项管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "巡检路线管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "设备巡检项管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1077112087"
+			Type = "MenuPopup"
+			X = "-135"
+			Y = "319"
+			Width = "98"
+			Height = "126"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "8"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "公司名称"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "CommandOption"
+				Item = "厂区管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "车间管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "岗位管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "7"
+				Type = "CommandOption"
+				Item = "人员管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "班次管理"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "2086169473"
+			Type = "MenuPopup"
+			X = "-74"
+			Y = "484"
+			Width = "98"
+			Height = "69"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "5"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "录入新卡"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "CommandOption"
+				Item = "编辑用途"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "注销卡片"
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "80823407"
+			Type = "ListBox"
+			X = "-371"
+			Y = "-213"
+			Width = "120"
+			Height = "34"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "巡检点流程图"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "定位巡检点坐标"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "299268466"
+			Type = "Component"
+			X = "-1784"
+			Y = "-2333"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "C6283FE5-677C-484D-AA05CC7AFA43E90E"
+			RootPath = "$Container"
+			Filename = "CreateTask.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "613888727"
+			Type = "Component"
+			X = "-1657"
+			Y = "-2144"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "6664FF12-006D-4723-B3C81368285DB5B8"
+			RootPath = "$Container"
+			Filename = "EditTask.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "613877428"
+			Type = "Component"
+			X = "-1489"
+			Y = "-1919"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "6CF6EC3B-B5BD-451F-A350C1FCAE1CA572"
+			RootPath = "$Container"
+			Filename = "IssuedTask.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "564951124"
+			Type = "ListBox"
+			X = "-378"
+			Y = "-415"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "111756569"
+			Type = "ListBox"
+			X = "-371"
+			Y = "-343"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "111746225"
+			Type = "ListBox"
+			X = "1026"
+			Y = "319"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "111750028"
+			Type = "ListBox"
+			X = "-470"
+			Y = "78"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "111758851"
+			Type = "Component"
+			X = "-4184"
+			Y = "-873"
+			Width = "767"
+			Height = "780"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "DD211D83-918B-4A66-974FA6C4A48AEE78"
+			RootPath = "$Container"
+			Filename = "xunjianxiangManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084247271"
+			Type = "Component"
+			X = "-3983"
+			Y = "-669"
+			Width = "635"
+			Height = "728"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "67F77103-65A1-46F1-84757AAB657F7B9F"
+			RootPath = "$Container"
+			Filename = "Editxunjianxiang.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084273388"
+			Type = "Component"
+			X = "-2834"
+			Y = "-325"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "4B84F094-41EA-4F90-9F8FF374BD6F65C7"
+			RootPath = "$Container"
+			Filename = "Eitxunjiandian.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084261936"
+			Type = "Component"
+			X = "456"
+			Y = "4229"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "E3EB4379-3EB4-488A-BFB54E5510DB95A9"
+			RootPath = "$Container"
+			Filename = "xunjianluxianManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084266037"
+			Type = "Component"
+			X = "-413"
+			Y = "6555"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "1B46BC7D-E8F9-4265-B0860C0ACFF2D156"
+			RootPath = "$Container"
+			Filename = "Editxunjianluxian.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084266600"
+			Type = "Component"
+			X = "1918"
+			Y = "6397"
+			Width = "635"
+			Height = "745"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
+			RootPath = "$Container"
+			Filename = "shebeiManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084247040"
+			Type = "Component"
+			X = "1848"
+			Y = "3775"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "1C89742A-D43B-48F8-B525497A7430B352"
+			RootPath = "$Container"
+			Filename = "Editshebei.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2022178878"
+			Type = "ListBox"
+			X = "1069"
+			Y = "132"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "2022202551"
+			Type = "ListBox"
+			X = "1264"
+			Y = "180"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "2022201858"
+			Type = "ListBox"
+			X = "1425"
+			Y = "258"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "2022190702"
+			Type = "ListBox"
+			X = "1534"
+			Y = "366"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "2022211315"
+			Type = "ListBox"
+			X = "1586"
+			Y = "450"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "345116917"
+			Type = "ListBox"
+			X = "1663"
+			Y = "545"
+			Width = "120"
+			Height = "50"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "4"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "1"
+				Value = "新建"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "2"
+				Value = "编辑"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "3"
+				Value = "删除"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "345112723"
+			Type = "Component"
+			X = "2788"
+			Y = "4510"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "17F5EB4A-42AF-4FD8-AE0D29F176FDD5D2"
+			RootPath = "$Container"
+			Filename = "gongshiManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "345145060"
+			Type = "Component"
+			X = "4175"
+			Y = "5716"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "0D6F5FC4-1DD4-46F7-AB8934127628A1F1"
+			RootPath = "$Container"
+			Filename = "gongshiEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1678795408"
+			Type = "Component"
+			X = "931"
+			Y = "5316"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "34A612DE-1217-4A4C-B1D7244C195E60F3"
+			RootPath = "$Container"
+			Filename = "changquManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1678787670"
+			Type = "Component"
+			X = "-1176"
+			Y = "5898"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "41334E17-9673-4638-B83A14637CE3F0E2"
+			RootPath = "$Container"
+			Filename = "chejianEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418344490"
+			Type = "Component"
+			X = "3631"
+			Y = "3478"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "337815DA-90A0-4559-BC9AEC17631C4373"
+			RootPath = "$Container"
+			Filename = "chejianManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418322987"
+			Type = "Component"
+			X = "173"
+			Y = "923"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "41334E17-9673-4638-B83A14637CE3F0E2"
+			RootPath = "$Container"
+			Filename = "chejianEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418339300"
+			Type = "Component"
+			X = "3309"
+			Y = "1691"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "236CCCC4-8D5B-418F-BDD6D8D934FB33F8"
+			RootPath = "$Container"
+			Filename = "gangweiManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418339896"
+			Type = "Component"
+			X = "4561"
+			Y = "1512"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "6D4884F3-7CB5-4B29-A8CBE15FB359977D"
+			RootPath = "$Container"
+			Filename = "Editgangwei.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418327218"
+			Type = "Component"
+			X = "2378"
+			Y = "-2113"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "C0F978A1-AEDB-4BAB-8ADF820636EE3DBD"
+			RootPath = "$Container"
+			Filename = "renyuanManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "418328849"
+			Type = "Component"
+			X = "3812"
+			Y = "-1547"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "D4618BDB-6329-4F3B-A6E8BAD3E2F55CE4"
+			RootPath = "$Container"
+			Filename = "renyuanEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1761217728"
+			Type = "Component"
+			X = "4054"
+			Y = "395"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "3DD0848A-C1D6-4A0A-A6DFA57EAADC9821"
+			RootPath = "$Container"
+			Filename = "banciManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1761218777"
+			Type = "Component"
+			X = "4060"
+			Y = "-431"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "B50CD66F-362A-4AFE-916D8A9269513C2A"
+			RootPath = "$Container"
+			Filename = "banciEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1761239809"
+			Type = "Component"
+			X = "-5038"
+			Y = "2601"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "0A97F1DC-6700-4DF5-A1CBAA44F385B0DF"
+			RootPath = "$Container"
+			Filename = "luruxinka.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1761217571"
+			Type = "Component"
+			X = "-1708"
+			Y = "4865"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "DF846C93-7389-4F50-A19341386B1A28C2"
+			RootPath = "$Container"
+			Filename = "xinkaEdit.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1149241379"
+			Type = "Component"
+			X = "-3773"
+			Y = "567"
+			Width = "635"
+			Height = "669"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "84A7D8EC-6896-4781-AA19A395203DDD96"
+			RootPath = "$Container"
+			Filename = "巡检点流程图.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1149242778"
+			Type = "Component"
+			X = "-3264"
+			Y = "-2039"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "0C4C157C-2372-4C45-83C841B9D8C1AE6E"
+			RootPath = "$Container"
+			Filename = "UserManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1149261072"
+			Type = "Component"
+			X = "-3150"
+			Y = "-1802"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "9EE20B33-0595-4653-9C4452D31B2D2F8A"
+			RootPath = "$Container"
+			Filename = "xunjianxiang.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1568039941"
+			Type = "Component"
+			X = "-3013"
+			Y = "-1598"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "084222E9-B824-4DF0-84CCB1D78880F9F1"
+			RootPath = "$Container"
+			Filename = "chuqinyichang.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2116293267"
+			Type = "Component"
+			X = "-2896"
+			Y = "-1303"
+			Width = "635"
+			Height = "624"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "C326B73B-C42A-4006-B91D16D9C1ECCA33"
+			RootPath = "$Container"
+			Filename = "dianjianyichang.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "1149265950"
+			Type = "Component"
+			X = "-3658"
+			Y = "907"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "876FAA79-7E41-4985-82418FE939B2DA0A"
+			RootPath = "$Container"
+			Filename = "巡检点坐标位置.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "2084250581"
+			Type = "Component"
+			X = "-2674"
+			Y = "-156"
+			Width = "635"
+			Height = "707"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "D17D0FD9-8CD2-4456-9F647D2986F247E0"
+			RootPath = "$Container"
+			Filename = "xunjiandianManage.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1077112050"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "1"
+			SourceRefID = "1174742143"
+			TargetRefID = "1077085388"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1077112479"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "2"
+			SourceRefID = "1174742143"
+			TargetRefID = "1077116338"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1077101517"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "3"
+			SourceRefID = "1174742143"
+			TargetRefID = "1077092976"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1077107671"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "4"
+			SourceRefID = "1174742143"
+			TargetRefID = "1077112087"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "483086944"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "6"
+			SourceRefID = "1174742143"
+			TargetRefID = "2086169473"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "613893716"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "1077085388"
+			TargetRefID = "299268466"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "614931386"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "4"
+			SourceRefID = "1077085388"
+			TargetRefID = "613888727"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "614943974"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "7"
+			SourceRefID = "1077085388"
+			TargetRefID = "613888727"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "614931126"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "5"
+			SourceRefID = "1077085388"
+			TargetRefID = "613877428"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "614952186"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "6"
+			SourceRefID = "1077085388"
+			TargetRefID = "613877428"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2116308399"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "5"
+			SourceRefID = "1077116338"
+			TargetRefID = "1568039941"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2116301267"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "6"
+			SourceRefID = "1077116338"
+			TargetRefID = "2116293267"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "111741372"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "4"
+			SourceRefID = "1077092976"
+			TargetRefID = "564951124"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "111770792"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "3"
+			SourceRefID = "1077092976"
+			TargetRefID = "111756569"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "111756105"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "5"
+			SourceRefID = "1077092976"
+			TargetRefID = "111746225"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "111746084"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "6"
+			SourceRefID = "1077092976"
+			TargetRefID = "111750028"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "111749770"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "564951124"
+			TargetRefID = "111758851"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084248017"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "564951124"
+			TargetRefID = "2084247271"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084244221"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "564951124"
+			TargetRefID = "2084247271"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084272209"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "111756569"
+			TargetRefID = "2084250581"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084243906"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "111756569"
+			TargetRefID = "2084273388"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084255062"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "111756569"
+			TargetRefID = "2084273388"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084245073"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "111746225"
+			TargetRefID = "2084261936"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084257258"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "111746225"
+			TargetRefID = "2084266037"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084263540"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "111746225"
+			TargetRefID = "2084266037"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084262406"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "111750028"
+			TargetRefID = "2084266600"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084249135"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "111750028"
+			TargetRefID = "2084247040"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2084245963"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "111750028"
+			TargetRefID = "2084247040"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345134814"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "1"
+			SourceRefID = "1077112087"
+			TargetRefID = "2022178878"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345138909"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "4"
+			SourceRefID = "1077112087"
+			TargetRefID = "2022202551"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345144591"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "5"
+			SourceRefID = "1077112087"
+			TargetRefID = "2022201858"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345144858"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "6"
+			SourceRefID = "1077112087"
+			TargetRefID = "2022190702"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345124231"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "7"
+			SourceRefID = "1077112087"
+			TargetRefID = "2022211315"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345132870"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "3"
+			SourceRefID = "1077112087"
+			TargetRefID = "345116917"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "345129705"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2022178878"
+			TargetRefID = "345112723"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1678773120"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "2022178878"
+			TargetRefID = "345145060"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1678779518"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2022178878"
+			TargetRefID = "345145060"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1678783043"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2022202551"
+			TargetRefID = "1678795408"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1678791208"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "2022202551"
+			TargetRefID = "1678787670"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1678793865"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2022202551"
+			TargetRefID = "1678787670"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418329088"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2022201858"
+			TargetRefID = "418344490"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418346684"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "2022201858"
+			TargetRefID = "418322987"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418318047"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2022201858"
+			TargetRefID = "418322987"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418340001"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2022190702"
+			TargetRefID = "418339300"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418325831"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "2022190702"
+			TargetRefID = "418339896"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418322501"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2022190702"
+			TargetRefID = "418339896"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "418322540"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2022211315"
+			TargetRefID = "418327218"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761231136"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "2022211315"
+			TargetRefID = "418328849"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761223539"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2022211315"
+			TargetRefID = "418328849"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761214794"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "345116917"
+			TargetRefID = "1761217728"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761247042"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "345116917"
+			TargetRefID = "1761218777"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761217809"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "345116917"
+			TargetRefID = "1761218777"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1761223152"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "2086169473"
+			TargetRefID = "1761239809"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149246927"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "4"
+			SourceRefID = "2086169473"
+			TargetRefID = "1761217571"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149252124"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "2086169473"
+			TargetRefID = "1761217571"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149240776"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "2"
+			SourceRefID = "80823407"
+			TargetRefID = "1149265950"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149240441"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "80823407"
+			TargetRefID = "1149241379"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149262075"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "1"
+			SourceRefID = "1077116338"
+			TargetRefID = "1149242778"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1149268133"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessShow"
+			SourceSubItemID = "3"
+			SourceRefID = "1077116338"
+			TargetRefID = "1149261072"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "2043224824"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = "8"
+			SourceRefID = "1174742143"
+			TargetRefID = "564951124"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1174745071"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

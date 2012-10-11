@@ -1,0 +1,174 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Toolbars">
+	<OpenFiles
+		CID = "1"
+		LastActive = "33">
+		<File
+			FileID = "E4B09838-4547-4ABB-B159B0DA3F74E95F"
+			RootPath = "$Container"
+			RelativePathname = "Login.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C6283FE5-677C-484D-AA05CC7AFA43E90E"
+			RootPath = "$Container"
+			RelativePathname = "CreateTask.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6664FF12-006D-4723-B3C81368285DB5B8"
+			RootPath = "$Container"
+			RelativePathname = "EditTask.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6CF6EC3B-B5BD-451F-A350C1FCAE1CA572"
+			RootPath = "$Container"
+			RelativePathname = "IssuedTask.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "9EE20B33-0595-4653-9C4452D31B2D2F8A"
+			RootPath = "$Container"
+			RelativePathname = "xunjianxiang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "084222E9-B824-4DF0-84CCB1D78880F9F1"
+			RootPath = "$Container"
+			RelativePathname = "chuqinyichang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C326B73B-C42A-4006-B91D16D9C1ECCA33"
+			RootPath = "$Container"
+			RelativePathname = "dianjianyichang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "DD211D83-918B-4A66-974FA6C4A48AEE78"
+			RootPath = "$Container"
+			RelativePathname = "xunjianxiangManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "67F77103-65A1-46F1-84757AAB657F7B9F"
+			RootPath = "$Container"
+			RelativePathname = "Editxunjianxiang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D17D0FD9-8CD2-4456-9F647D2986F247E0"
+			RootPath = "$Container"
+			RelativePathname = "xunjiandianManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4B84F094-41EA-4F90-9F8FF374BD6F65C7"
+			RootPath = "$Container"
+			RelativePathname = "Eitxunjiandian.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1B46BC7D-E8F9-4265-B0860C0ACFF2D156"
+			RootPath = "$Container"
+			RelativePathname = "Editxunjianluxian.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E3EB4379-3EB4-488A-BFB54E5510DB95A9"
+			RootPath = "$Container"
+			RelativePathname = "xunjianluxianManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
+			RootPath = "$Container"
+			RelativePathname = "shebeiManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1C89742A-D43B-48F8-B525497A7430B352"
+			RootPath = "$Container"
+			RelativePathname = "Editshebei.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "17F5EB4A-42AF-4FD8-AE0D29F176FDD5D2"
+			RootPath = "$Container"
+			RelativePathname = "gongshiManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0D6F5FC4-1DD4-46F7-AB8934127628A1F1"
+			RootPath = "$Container"
+			RelativePathname = "gongshiEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "34A612DE-1217-4A4C-B1D7244C195E60F3"
+			RootPath = "$Container"
+			RelativePathname = "changquManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "58B5FB46-2959-41E5-96A307ECC148A622"
+			RootPath = "$Container"
+			RelativePathname = "changquEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "337815DA-90A0-4559-BC9AEC17631C4373"
+			RootPath = "$Container"
+			RelativePathname = "chejianManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "41334E17-9673-4638-B83A14637CE3F0E2"
+			RootPath = "$Container"
+			RelativePathname = "chejianEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "236CCCC4-8D5B-418F-BDD6D8D934FB33F8"
+			RootPath = "$Container"
+			RelativePathname = "gangweiManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6D4884F3-7CB5-4B29-A8CBE15FB359977D"
+			RootPath = "$Container"
+			RelativePathname = "Editgangwei.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "C0F978A1-AEDB-4BAB-8ADF820636EE3DBD"
+			RootPath = "$Container"
+			RelativePathname = "renyuanManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "D4618BDB-6329-4F3B-A6E8BAD3E2F55CE4"
+			RootPath = "$Container"
+			RelativePathname = "renyuanEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "3DD0848A-C1D6-4A0A-A6DFA57EAADC9821"
+			RootPath = "$Container"
+			RelativePathname = "banciManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B50CD66F-362A-4AFE-916D8A9269513C2A"
+			RootPath = "$Container"
+			RelativePathname = "banciEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0A97F1DC-6700-4DF5-A1CBAA44F385B0DF"
+			RootPath = "$Container"
+			RelativePathname = "luruxinka.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "DF846C93-7389-4F50-A19341386B1A28C2"
+			RootPath = "$Container"
+			RelativePathname = "xinkaEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "876FAA79-7E41-4985-82418FE939B2DA0A"
+			RootPath = "$Container"
+			RelativePathname = "巡检点坐标位置.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "84A7D8EC-6896-4781-AA19A395203DDD96"
+			RootPath = "$Container"
+			RelativePathname = "巡检点流程图.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0C4C157C-2372-4C45-83C841B9D8C1AE6E"
+			RootPath = "$Container"
+			RelativePathname = "UserManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B0C645DE-CCAD-481F-B93651D5D4686ADE"
+			RootPath = "$Container"
+			RelativePathname = "Main.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
