@@ -230,15 +230,15 @@
 			HorzAlign = "Centre"
 			VertAlign = "Centre"/>
 		<Element
-			CID = "364597030"
+			CID = "1112352362"
 			Type = "Component"
-			X = "446"
+			X = "375"
 			Y = "288"
 			Width = "994"
 			Height = "636"
 			Flags = "3"
 			BackgroundColour = "255,255,255,0,6"
-			FileID = "B0C645DE-CCAD-481F-B93651D5D4686ADE"
+			FileID = "F0BBF904-DE56-45C6-B98CB19DCCF89C58"
 			RootPath = "$Container"
 			Filename = "Main.gui"
 			Background = "Transparent"
@@ -260,14 +260,14 @@
 			ConLineWidth = "2"
 			ConLineColour = "0,0,0,0,0"/>
 		<Connection
-			CID = "364582957"
+			CID = "1112367811"
 			Layer = "DesignElements"
 			Trigger = "LeftClick"
 			Type = "Navigation"
-			SubType = "ModelessShow"
+			SubType = "Modal"
 			SourceSubItemID = ""
 			SourceRefID = "580719747"
-			TargetRefID = "364597030"
+			TargetRefID = "1112352362"
 			ConLineWidth = "2"
 			ConLineColour = "0,0,0,0,0"/>
 	</Connections>

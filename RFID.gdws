@@ -4,59 +4,59 @@
 	IconCategory = "Toolbars">
 	<OpenFiles
 		CID = "1"
-		LastActive = "34">
+		LastActive = "41">
 		<File
 			FileID = "E4B09838-4547-4ABB-B159B0DA3F74E95F"
 			RootPath = "$Container"
-			RelativePathname = "Login.gui"
+			RelativePathname = "RouteNew.gui\Login.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "C6283FE5-677C-484D-AA05CC7AFA43E90E"
 			RootPath = "$Container"
-			RelativePathname = "CreateTask.gui"
+			RelativePathname = "RouteNew.gui\CreateTask.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "6664FF12-006D-4723-B3C81368285DB5B8"
 			RootPath = "$Container"
-			RelativePathname = "EditTask.gui"
+			RelativePathname = "RouteNew.gui\EditTask.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "6CF6EC3B-B5BD-451F-A350C1FCAE1CA572"
 			RootPath = "$Container"
-			RelativePathname = "IssuedTask.gui"
+			RelativePathname = "RouteNew.gui\IssuedTask.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "9EE20B33-0595-4653-9C4452D31B2D2F8A"
 			RootPath = "$Container"
-			RelativePathname = "xunjianxiang.gui"
+			RelativePathname = "RouteNew.gui\xunjianxiang.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "084222E9-B824-4DF0-84CCB1D78880F9F1"
 			RootPath = "$Container"
-			RelativePathname = "chuqinyichang.gui"
+			RelativePathname = "RouteNew.gui\chuqinyichang.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "C326B73B-C42A-4006-B91D16D9C1ECCA33"
 			RootPath = "$Container"
-			RelativePathname = "dianjianyichang.gui"
+			RelativePathname = "RouteNew.gui\dianjianyichang.gui"
 			ViewSettings = ""/>
 		<File
+			FileID = "EFF77A69-1628-49D6-9661DEB4066CDE7C"
 			RootPath = "$Container"
 			RelativePathname = "ItemNew.gui"
 			ViewSettings = ""/>
 		<File
-			RootPath = "$Container"
-			RelativePathname = "ItemEdit.gui"
-			ViewSettings = ""/>
-		<File
+			FileID = "C2DCCB9B-CCCA-410A-95A2F37C336948C7"
 			RootPath = "$Container"
 			RelativePathname = "PointNew.gui"
 			ViewSettings = ""/>
 		<File
+			FileID = "796352E4-D70E-446E-89DA851C4F95E131"
 			RootPath = "$Container"
 			RelativePathname = "PointEdit.gui"
 			ViewSettings = ""/>
 		<File
+			FileID = "184EE7A5-5902-4FA9-B07523FC3B4420B3"
 			RootPath = "$Container"
 			RelativePathname = "RouteEdit.gui"
 			ViewSettings = ""/>
@@ -67,104 +67,145 @@
 		<File
 			FileID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
 			RootPath = "$Container"
-			RelativePathname = "shebeiManage.gui"
+			RelativePathname = "RouteNew.gui\shebeiManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "1C89742A-D43B-48F8-B525497A7430B352"
 			RootPath = "$Container"
-			RelativePathname = "Editshebei.gui"
+			RelativePathname = "RouteNew.gui\Editshebei.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "17F5EB4A-42AF-4FD8-AE0D29F176FDD5D2"
 			RootPath = "$Container"
-			RelativePathname = "gongshiManage.gui"
+			RelativePathname = "RouteNew.gui\gongshiManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "0D6F5FC4-1DD4-46F7-AB8934127628A1F1"
 			RootPath = "$Container"
-			RelativePathname = "gongshiEdit.gui"
+			RelativePathname = "RouteNew.gui\gongshiEdit.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "34A612DE-1217-4A4C-B1D7244C195E60F3"
 			RootPath = "$Container"
-			RelativePathname = "changquManage.gui"
+			RelativePathname = "RouteNew.gui\changquManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "58B5FB46-2959-41E5-96A307ECC148A622"
 			RootPath = "$Container"
-			RelativePathname = "changquEdit.gui"
+			RelativePathname = "RouteNew.gui\changquEdit.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "337815DA-90A0-4559-BC9AEC17631C4373"
 			RootPath = "$Container"
-			RelativePathname = "chejianManage.gui"
+			RelativePathname = "RouteNew.gui\chejianManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "41334E17-9673-4638-B83A14637CE3F0E2"
 			RootPath = "$Container"
-			RelativePathname = "chejianEdit.gui"
+			RelativePathname = "RouteNew.gui\chejianEdit.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "236CCCC4-8D5B-418F-BDD6D8D934FB33F8"
 			RootPath = "$Container"
-			RelativePathname = "gangweiManage.gui"
+			RelativePathname = "RouteNew.gui\gangweiManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "6D4884F3-7CB5-4B29-A8CBE15FB359977D"
 			RootPath = "$Container"
-			RelativePathname = "Editgangwei.gui"
+			RelativePathname = "RouteNew.gui\Editgangwei.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "C0F978A1-AEDB-4BAB-8ADF820636EE3DBD"
 			RootPath = "$Container"
-			RelativePathname = "renyuanManage.gui"
+			RelativePathname = "RouteNew.gui\renyuanManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "D4618BDB-6329-4F3B-A6E8BAD3E2F55CE4"
 			RootPath = "$Container"
-			RelativePathname = "renyuanEdit.gui"
+			RelativePathname = "RouteNew.gui\renyuanEdit.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "3DD0848A-C1D6-4A0A-A6DFA57EAADC9821"
 			RootPath = "$Container"
-			RelativePathname = "banciManage.gui"
+			RelativePathname = "RouteNew.gui\banciManage.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "B50CD66F-362A-4AFE-916D8A9269513C2A"
 			RootPath = "$Container"
-			RelativePathname = "banciEdit.gui"
+			RelativePathname = "RouteNew.gui\banciEdit.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "876FAA79-7E41-4985-82418FE939B2DA0A"
 			RootPath = "$Container"
-			RelativePathname = "巡检点坐标位置.gui"
+			RelativePathname = "RouteNew.gui\巡检点坐标位置.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "84A7D8EC-6896-4781-AA19A395203DDD96"
 			RootPath = "$Container"
-			RelativePathname = "巡检点流程图.gui"
+			RelativePathname = "RouteNew.gui\巡检点流程图.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "0C4C157C-2372-4C45-83C841B9D8C1AE6E"
 			RootPath = "$Container"
-			RelativePathname = "UserManage.gui"
+			RelativePathname = "RouteNew.gui\UserManage.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "B0C645DE-CCAD-481F-B93651D5D4686ADE"
-			RootPath = "$Container"
-			RelativePathname = "Main.gui"
-			ViewSettings = ""/>
-		<File
+			FileID = "C8EBB59A-F0FD-494A-89378AA9AE0DFDDA"
 			RootPath = "$Container"
 			RelativePathname = "CardNew.gui"
 			ViewSettings = ""/>
 		<File
-			RootPath = "$Container"
-			RelativePathname = "CardEditDelete.gui"
-			ViewSettings = ""/>
-		<File
+			FileID = "62887DE0-2A54-428C-9F7A8EECED2C682D"
 			RootPath = "$Container"
 			RelativePathname = "RouteNew.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Absolute"
+			RelativePathname = "C:\Users\John\Desktop\Editxunjianluxian.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Absolute"
+			RelativePathname = "C:\Users\John\Desktop\Editxunjianxiang.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "6685A04B-2275-46F9-80844A5DAD8E23D2"
+			RootPath = "$Container"
+			RelativePathname = "ItemEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "F0BBF904-DE56-45C6-B98CB19DCCF89C58"
+			RootPath = "$Container"
+			RelativePathname = "Main.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "081D0098-87D5-49D2-9E844631A96725CC"
+			RootPath = "$Container"
+			RelativePathname = "Company.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "A1432D13-C573-498F-919C44199B1F1600"
+			RootPath = "$Container"
+			RelativePathname = "gongshiManage.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "44F9EA80-F1CB-46EB-AF4C3611CF92E070"
+			RootPath = "$Container"
+			RelativePathname = "SiteEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "5DC6A382-CF22-4109-B0D3E3C18879BF00"
+			RootPath = "$Container"
+			RelativePathname = "SiteNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "F287BFFD-C356-4CD5-9B0910003C3F9915"
+			RootPath = "$Container"
+			RelativePathname = "Login.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "1AC63CE1-F553-4585-B7717279E2278C70"
+			RootPath = "$Container"
+			RelativePathname = "CardEditDelete.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>

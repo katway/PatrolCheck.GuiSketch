@@ -4,6 +4,11 @@
 	<Files
 		CID = "1">
 		<FileInfo
+			ID = "081D0098-87D5-49D2-9E844631A96725CC"
+			RelativePath = "Company.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "gongshiEdit.gui"/>
+		<FileInfo
 			ID = "084222E9-B824-4DF0-84CCB1D78880F9F1"
 			RelativePath = "RouteNew.gui\chuqinyichang.gui"
 			OriginalRoot = "$Project"
@@ -19,6 +24,11 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "luruxinka.gui"/>
 		<FileInfo
+			ID = "0C13EAC4-E902-411C-86F35C1B8F8C10BD"
+			RelativePath = ".gitignore"
+			OriginalRoot = "$Project"
+			OriginalPath = ".gitignore"/>
+		<FileInfo
 			ID = "0C4C157C-2372-4C45-83C841B9D8C1AE6E"
 			RelativePath = "RouteNew.gui\UserManage.gui"
 			OriginalRoot = "$Project"
@@ -29,10 +39,25 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "gongshiEdit.gui"/>
 		<FileInfo
+			ID = "15091259-6B05-44C6-863A98A46CF65601"
+			RelativePath = "renyuanManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "renyuanManage.gui"/>
+		<FileInfo
 			ID = "17F5EB4A-42AF-4FD8-AE0D29F176FDD5D2"
 			RelativePath = "RouteNew.gui\gongshiManage.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "gongshiManage.gui"/>
+		<FileInfo
+			ID = "184EE7A5-5902-4FA9-B07523FC3B4420B3"
+			RelativePath = "RouteEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "RouteEdit.gui"/>
+		<FileInfo
+			ID = "1AC63CE1-F553-4585-B7717279E2278C70"
+			RelativePath = "CardEditDelete.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardEditDelete.gui"/>
 		<FileInfo
 			ID = "1B46BC7D-E8F9-4265-B0860C0ACFF2D156"
 			RelativePath = "RouteNew.gui\Editxunjianluxian.gui"
@@ -59,6 +84,16 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "changquManage.gui"/>
 		<FileInfo
+			ID = "389AD9B9-8EB3-4BE1-9B29E1669088E22F"
+			RelativePath = "Editgangwei.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Editgangwei.gui"/>
+		<FileInfo
+			ID = "3B166C8B-7736-4E80-86112E8427B9C02D"
+			RelativePath = "chejianManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "chejianManage.gui"/>
+		<FileInfo
 			ID = "3DD0848A-C1D6-4A0A-A6DFA57EAADC9821"
 			RelativePath = "RouteNew.gui\banciManage.gui"
 			OriginalRoot = "$Project"
@@ -69,20 +104,55 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "chejianEdit.gui"/>
 		<FileInfo
+			ID = "44F9EA80-F1CB-46EB-AF4C3611CF92E070"
+			RelativePath = "SiteEditDelete.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "changquEdit.gui"/>
+		<FileInfo
 			ID = "4B84F094-41EA-4F90-9F8FF374BD6F65C7"
 			RelativePath = "RouteNew.gui\PointEdit.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Eitxunjiandian.gui"/>
+		<FileInfo
+			ID = "4BD58B40-51F1-47D1-838838A0DDBE0706"
+			RelativePath = "gangweiManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "gangweiManage.gui"/>
+		<FileInfo
+			ID = "4E83B9AE-4470-444A-A71D36073EC1F27D"
+			RelativePath = "xunjianxiang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "xunjianxiang.gui"/>
 		<FileInfo
 			ID = "58B5FB46-2959-41E5-96A307ECC148A622"
 			RelativePath = "RouteNew.gui\changquEdit.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "changquEdit.gui"/>
 		<FileInfo
+			ID = "5DC6A382-CF22-4109-B0D3E3C18879BF00"
+			RelativePath = "SiteNew.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "changquManage.gui"/>
+		<FileInfo
+			ID = "62887DE0-2A54-428C-9F7A8EECED2C682D"
+			RelativePath = "RouteNew.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "RouteNew.gui"/>
+		<FileInfo
+			ID = "62B7832F-8F3D-49AD-9EDFAC78AE47D5D6"
+			RelativePath = "chejianEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "chejianEdit.gui"/>
+		<FileInfo
 			ID = "6664FF12-006D-4723-B3C81368285DB5B8"
 			RelativePath = "RouteNew.gui\EditTask.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "EditTask.gui"/>
+		<FileInfo
+			ID = "6685A04B-2275-46F9-80844A5DAD8E23D2"
+			RelativePath = "ItemEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ItemEdit.gui"/>
 		<FileInfo
 			ID = "67F77103-65A1-46F1-84757AAB657F7B9F"
 			RelativePath = "RouteNew.gui\ItemEdit.gui"
@@ -99,6 +169,11 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Editgangwei.gui"/>
 		<FileInfo
+			ID = "796352E4-D70E-446E-89DA851C4F95E131"
+			RelativePath = "PointEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "PointEdit.gui"/>
+		<FileInfo
 			ID = "84A7D8EC-6896-4781-AA19A395203DDD96"
 			RelativePath = "RouteNew.gui\巡检点流程图.gui"
 			OriginalRoot = "$Project"
@@ -109,10 +184,30 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "巡检点坐标位置.gui"/>
 		<FileInfo
+			ID = "9A98D37E-9A79-4907-95DD162B8BD1D00C"
+			RelativePath = "Editshebei.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Editshebei.gui"/>
+		<FileInfo
+			ID = "9D0A863B-E1E0-45BB-95056A72DF28857A"
+			RelativePath = "IssuedTask.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "IssuedTask.gui"/>
+		<FileInfo
+			ID = "9E3E88E5-675D-4ED3-9C3BD17512284183"
+			RelativePath = "巡检点流程图.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "巡检点流程图.gui"/>
+		<FileInfo
 			ID = "9EE20B33-0595-4653-9C4452D31B2D2F8A"
 			RelativePath = "RouteNew.gui\xunjianxiang.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "xunjianxiang.gui"/>
+		<FileInfo
+			ID = "A1432D13-C573-498F-919C44199B1F1600"
+			RelativePath = "gongshiManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "gongshiManage.gui"/>
 		<FileInfo
 			ID = "AB055983-E59E-4A9E-8B311CF3C2BA74AD"
 			RelativePath = "RouteNew.gui\.gitignore"
@@ -129,10 +224,20 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "banciEdit.gui"/>
 		<FileInfo
+			ID = "B8C85601-37F7-4B01-A4BEABD18C583810"
+			RelativePath = "巡检点坐标位置.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "巡检点坐标位置.gui"/>
+		<FileInfo
 			ID = "C0F978A1-AEDB-4BAB-8ADF820636EE3DBD"
 			RelativePath = "RouteNew.gui\renyuanManage.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "renyuanManage.gui"/>
+		<FileInfo
+			ID = "C2DCCB9B-CCCA-410A-95A2F37C336948C7"
+			RelativePath = "PointNew.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "PointNew.gui"/>
 		<FileInfo
 			ID = "C326B73B-C42A-4006-B91D16D9C1ECCA33"
 			RelativePath = "RouteNew.gui\dianjianyichang.gui"
@@ -143,6 +248,16 @@
 			RelativePath = "RouteNew.gui\CreateTask.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "CreateTask.gui"/>
+		<FileInfo
+			ID = "C8EBB59A-F0FD-494A-89378AA9AE0DFDDA"
+			RelativePath = "CardNew.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardNew.gui"/>
+		<FileInfo
+			ID = "C9CC585C-1AE7-4CA1-8DCCBD7BAD315147"
+			RelativePath = "dianjianyichang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "dianjianyichang.gui"/>
 		<FileInfo
 			ID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
 			RelativePath = "RouteNew.gui\shebeiManage.gui"
@@ -159,10 +274,20 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "renyuanEdit.gui"/>
 		<FileInfo
+			ID = "DAA21B8A-330A-42DD-A6BE9B6345D47348"
+			RelativePath = "CreateTask.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CreateTask.gui"/>
+		<FileInfo
 			ID = "DD211D83-918B-4A66-974FA6C4A48AEE78"
 			RelativePath = "RouteNew.gui\xunjianxiangManage.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "xunjianxiangManage.gui"/>
+		<FileInfo
+			ID = "DE392BD0-C244-4A83-9FBFF70D3492B0B4"
+			RelativePath = "banciManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "banciManage.gui"/>
 		<FileInfo
 			ID = "DF846C93-7389-4F50-A19341386B1A28C2"
 			RelativePath = "RouteNew.gui\CardEditDelete.gui"
@@ -174,6 +299,16 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "DeleteTask.gui"/>
 		<FileInfo
+			ID = "E031E207-CA3A-4651-8CF521DFF5A9AF51"
+			RelativePath = "shebeiManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "shebeiManage.gui"/>
+		<FileInfo
+			ID = "E0AFC1EE-B698-4142-AB20F8AA5B1226AB"
+			RelativePath = "EditTask.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "EditTask.gui"/>
+		<FileInfo
 			ID = "E3EB4379-3EB4-488A-BFB54E5510DB95A9"
 			RelativePath = "RouteNew.gui\.gui"
 			OriginalRoot = "$Project"
@@ -183,5 +318,40 @@
 			RelativePath = "RouteNew.gui\Login.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Login.gui"/>
+		<FileInfo
+			ID = "E62AFC19-73FE-425A-BDA1B17D9D224BEE"
+			RelativePath = "chuqinyichang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "chuqinyichang.gui"/>
+		<FileInfo
+			ID = "EF3261F3-E43D-40BC-AF769A1AE0C8B1AE"
+			RelativePath = "renyuanEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "renyuanEdit.gui"/>
+		<FileInfo
+			ID = "EFF77A69-1628-49D6-9661DEB4066CDE7C"
+			RelativePath = "ItemNew.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ItemNew.gui"/>
+		<FileInfo
+			ID = "F0BBF904-DE56-45C6-B98CB19DCCF89C58"
+			RelativePath = "Main.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Main.gui"/>
+		<FileInfo
+			ID = "F1D30109-130E-4ACB-81BFE056E4353520"
+			RelativePath = "banciEdit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "banciEdit.gui"/>
+		<FileInfo
+			ID = "F287BFFD-C356-4CD5-9B0910003C3F9915"
+			RelativePath = "Login.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Login.gui"/>
+		<FileInfo
+			ID = "FEF22B8A-F49C-4645-A08B5FECFDFCA623"
+			RelativePath = "UserManage.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "UserManage.gui"/>
 	</Files>
 </Catalogue>
