@@ -40,7 +40,7 @@
 			OriginalPath = "gongshiEdit.gui"/>
 		<FileInfo
 			ID = "15091259-6B05-44C6-863A98A46CF65601"
-			RelativePath = "renyuanManage.gui"
+			RelativePath = "EmployeeNew.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "renyuanManage.gui"/>
 		<FileInfo
@@ -50,7 +50,7 @@
 			OriginalPath = "gongshiManage.gui"/>
 		<FileInfo
 			ID = "184EE7A5-5902-4FA9-B07523FC3B4420B3"
-			RelativePath = "RouteEdit.gui"
+			RelativePath = "RouteEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "RouteEdit.gui"/>
 		<FileInfo
@@ -85,7 +85,7 @@
 			OriginalPath = "changquManage.gui"/>
 		<FileInfo
 			ID = "389AD9B9-8EB3-4BE1-9B29E1669088E22F"
-			RelativePath = "Editgangwei.gui"
+			RelativePath = "PostEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Editgangwei.gui"/>
 		<FileInfo
@@ -115,7 +115,7 @@
 			OriginalPath = "Eitxunjiandian.gui"/>
 		<FileInfo
 			ID = "4BD58B40-51F1-47D1-838838A0DDBE0706"
-			RelativePath = "gangweiManage.gui"
+			RelativePath = "PostNew.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "gangweiManage.gui"/>
 		<FileInfo
@@ -150,7 +150,7 @@
 			OriginalPath = "EditTask.gui"/>
 		<FileInfo
 			ID = "6685A04B-2275-46F9-80844A5DAD8E23D2"
-			RelativePath = "ItemEdit.gui"
+			RelativePath = "ItemEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "ItemEdit.gui"/>
 		<FileInfo
@@ -169,8 +169,13 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "Editgangwei.gui"/>
 		<FileInfo
+			ID = "6E4CD984-2085-495A-B5A9642D8B2DD065"
+			RelativePath = "RFID.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "RFID.autosave"/>
+		<FileInfo
 			ID = "796352E4-D70E-446E-89DA851C4F95E131"
-			RelativePath = "PointEdit.gui"
+			RelativePath = "PointEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "PointEdit.gui"/>
 		<FileInfo
@@ -207,7 +212,8 @@
 			ID = "A1432D13-C573-498F-919C44199B1F1600"
 			RelativePath = "gongshiManage.gui"
 			OriginalRoot = "$Project"
-			OriginalPath = "gongshiManage.gui"/>
+			OriginalPath = "gongshiManage.gui"
+			IsDeleted = "1"/>
 		<FileInfo
 			ID = "AB055983-E59E-4A9E-8B311CF3C2BA74AD"
 			RelativePath = "RouteNew.gui\.gitignore"
@@ -275,7 +281,7 @@
 			OriginalPath = "renyuanEdit.gui"/>
 		<FileInfo
 			ID = "DAA21B8A-330A-42DD-A6BE9B6345D47348"
-			RelativePath = "CreateTask.gui"
+			RelativePath = "TaskNew.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "CreateTask.gui"/>
 		<FileInfo
@@ -305,7 +311,7 @@
 			OriginalPath = "shebeiManage.gui"/>
 		<FileInfo
 			ID = "E0AFC1EE-B698-4142-AB20F8AA5B1226AB"
-			RelativePath = "EditTask.gui"
+			RelativePath = "TaskEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "EditTask.gui"/>
 		<FileInfo
@@ -325,7 +331,7 @@
 			OriginalPath = "chuqinyichang.gui"/>
 		<FileInfo
 			ID = "EF3261F3-E43D-40BC-AF769A1AE0C8B1AE"
-			RelativePath = "renyuanEdit.gui"
+			RelativePath = "EmployeeEditDelete.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "renyuanEdit.gui"/>
 		<FileInfo

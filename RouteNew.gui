@@ -17,7 +17,7 @@
 			X = "-176"
 			Y = "-126"
 			Width = "635"
-			Height = "707"
+			Height = "652"
 			Flags = "0"
 			WindowColour = "172,168,153,0,13"
 			Typeface = ""
@@ -113,7 +113,7 @@
 			FirstMonth = "10"
 			SelectedYear = "2012"
 			SelectedMonth = "10"
-			SelectedDay = "11"
+			SelectedDay = "23"
 			SelectedCount = "1"
 			IsDisabled = "0"
 			HorzAlign = "Centre"
@@ -124,7 +124,7 @@
 			X = "-163"
 			Y = "210"
 			Width = "609"
-			Height = "276"
+			Height = "307"
 			Flags = "0"
 			HeaderBackgroundColour = "236,233,216,0,16"
 			HeaderBorderColour = "172,168,153,0,17"
@@ -174,8 +174,8 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "7"
-					Heading = "巡检路线编号"
-					Width = "80"
+					Heading = "编号"
+					Width = "60"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -188,7 +188,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "3"
-					Heading = "巡检路线名称"
+					Heading = "路线名称"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -215,20 +215,6 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "20"
-					Heading = "包含的巡检点"
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
 					ColumnID = "24"
 					Heading = "所属厂区"
 					Width = "80"
@@ -243,37 +229,9 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "9"
-					Heading = ""
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "10"
-					Heading = ""
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "12"
-					Heading = ""
-					Width = "80"
+					ColumnID = "20"
+					Heading = "包含巡检点"
+					Width = "120"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -300,54 +258,9 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-				</Row>
-				<Row
-					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 					<Cell>
 						
 					</Cell>
@@ -381,15 +294,6 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
@@ -402,6 +306,15 @@
 					<Cell>
 						
 					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
 					<Cell>
 						
 					</Cell>
@@ -424,7 +337,7 @@
 			CID = "1112752573"
 			Type = "StaticText"
 			X = "-152"
-			Y = "-36"
+			Y = "-91"
 			Width = "77"
 			Height = "31"
 			Flags = "16384"
@@ -441,17 +354,17 @@
 		<Element
 			CID = "1112768139"
 			Type = "StaticText"
-			X = "-163"
-			Y = "157"
-			Width = "100"
-			Height = "40"
+			X = "-159"
+			Y = "168"
+			Width = "72"
+			Height = "17"
 			Flags = "0"
 			FillColour = "236,233,216,0,16"
 			TextColour = "0,0,0,0,19"
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "新建巡检路线信息"
+			Text = "已有路线信息"
 			IsDisabled = "0"
 			Fill = "None"
 			HorzAlign = "Centre"
@@ -459,9 +372,9 @@
 		<Element
 			CID = "1112747771"
 			Type = "HorizontalSeparatorLine"
-			X = "-163"
-			Y = "145"
-			Width = "606"
+			X = "-76"
+			Y = "172"
+			Width = "522"
 			Height = "12"
 			Flags = "2"/>
 		<Element

@@ -4,7 +4,7 @@
 	IconCategory = "Toolbars">
 	<OpenFiles
 		CID = "1"
-		LastActive = "41">
+		LastActive = "44">
 		<File
 			FileID = "E4B09838-4547-4ABB-B159B0DA3F74E95F"
 			RootPath = "$Container"
@@ -53,16 +53,12 @@
 		<File
 			FileID = "796352E4-D70E-446E-89DA851C4F95E131"
 			RootPath = "$Container"
-			RelativePathname = "PointEdit.gui"
+			RelativePathname = "PointEditDelete.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "184EE7A5-5902-4FA9-B07523FC3B4420B3"
 			RootPath = "$Container"
-			RelativePathname = "RouteEdit.gui"
-			ViewSettings = ""/>
-		<File
-			RootPath = "$Container"
-			RelativePathname = "RouteNew.gui\"
+			RelativePathname = "RouteEditDelete.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "CC47AA28-34CC-4901-B7E27A32282BEACE"
@@ -170,12 +166,7 @@
 		<File
 			FileID = "6685A04B-2275-46F9-80844A5DAD8E23D2"
 			RootPath = "$Container"
-			RelativePathname = "ItemEdit.gui"
-			ViewSettings = ""/>
-		<File
-			FileID = "F0BBF904-DE56-45C6-B98CB19DCCF89C58"
-			RootPath = "$Container"
-			RelativePathname = "Main.gui"
+			RelativePathname = "ItemEditDelete.gui"
 			ViewSettings = ""/>
 		<File
 			FileID = "081D0098-87D5-49D2-9E844631A96725CC"
@@ -193,11 +184,6 @@
 			RelativePathname = "SiteEditDelete.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "5DC6A382-CF22-4109-B0D3E3C18879BF00"
-			RootPath = "$Container"
-			RelativePathname = "SiteNew.gui"
-			ViewSettings = ""/>
-		<File
 			FileID = "F287BFFD-C356-4CD5-9B0910003C3F9915"
 			RootPath = "$Container"
 			RelativePathname = "Login.gui"
@@ -206,6 +192,65 @@
 			FileID = "1AC63CE1-F553-4585-B7717279E2278C70"
 			RootPath = "$Container"
 			RelativePathname = "CardEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "62B7832F-8F3D-49AD-9EDFAC78AE47D5D6"
+			RootPath = "$Container"
+			RelativePathname = "chejianEdit.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "389AD9B9-8EB3-4BE1-9B29E1669088E22F"
+			RootPath = "$Container"
+			RelativePathname = "PostEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "4BD58B40-51F1-47D1-838838A0DDBE0706"
+			RootPath = "$Container"
+			RelativePathname = "PostNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "5DC6A382-CF22-4109-B0D3E3C18879BF00"
+			RootPath = "$Container"
+			RelativePathname = "SiteNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "15091259-6B05-44C6-863A98A46CF65601"
+			RootPath = "$Container"
+			RelativePathname = "EmployeeNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "E0AFC1EE-B698-4142-AB20F8AA5B1226AB"
+			RootPath = "$Container"
+			RelativePathname = "TaskEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "EF3261F3-E43D-40BC-AF769A1AE0C8B1AE"
+			RootPath = "$Container"
+			RelativePathname = "EmployeeEditDelete.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "RouteNew.gui\"
+			ViewSettings = ""/>
+		<File
+			FileID = "F0BBF904-DE56-45C6-B98CB19DCCF89C58"
+			RootPath = "$Container"
+			RelativePathname = "Main.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "DAA21B8A-330A-42DD-A6BE9B6345D47348"
+			RootPath = "$Container"
+			RelativePathname = "TaskNew.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "9D0A863B-E1E0-45BB-95056A72DF28857A"
+			RootPath = "$Container"
+			RelativePathname = "IssuedTask.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "3B166C8B-7736-4E80-86112E8427B9C02D"
+			RootPath = "$Container"
+			RelativePathname = "chejianManage.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>

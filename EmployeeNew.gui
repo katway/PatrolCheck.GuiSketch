@@ -1,5 +1,5 @@
 <Screen
-	CID = "1926385308"
+	CID = "2132216110"
 	AppID = "2"
 	AppVer = "4.2.116.0"
 	DocID = ""
@@ -12,18 +12,18 @@
 	<Elements
 		CID = "1">
 		<Element
-			CID = "1926390726"
+			CID = "2132231652"
 			Type = "FrameWindow"
-			X = "55"
-			Y = "-73"
+			X = "156"
+			Y = "-100"
 			Width = "635"
-			Height = "707"
+			Height = "534"
 			Flags = "0"
 			WindowColour = "172,168,153,0,13"
 			Typeface = ""
 			FontAttributes = "1"
 			TextSize = "Normal"
-			Title = "新建岗位"
+			Title = "新增员工"
 			TitleBarHeight = "18"
 			IconMargin = "0"
 			BorderSize = "1"
@@ -37,92 +37,10 @@
 			Buttons = "7"
 			Icon = "DefaultApp"/>
 		<Element
-			CID = "1926366872"
-			Type = "Calendar"
-			X = "305"
-			Y = "344"
-			Width = "205"
-			Height = "158"
-			Flags = "3"
-			MainFillColour = "255,255,255,0,6"
-			MainLineColour = "0,0,0,0,9"
-			MainTextColour = "0,0,0,0,9"
-			TitleFillColour = "139,161,105,0,3"
-			TitleLineColour = "172,168,153,0,11"
-			TitleTextColour = "255,255,255,0,10"
-			DayNamesFillColour = "255,255,255,0,6"
-			DayNamesLineColour = "255,255,255,0,6"
-			DayNamesTextColour = "139,161,105,0,3"
-			WeekendNamesFillColour = "255,255,255,0,6"
-			WeekendNamesLineColour = "255,255,255,0,6"
-			WeekendNamesTextColour = "139,161,105,0,3"
-			WeekFillColour = "255,255,255,0,6"
-			WeekLineColour = "255,255,255,0,6"
-			WeekTextColour = "139,161,105,0,3"
-			DayFillColour = "255,255,255,0,6"
-			DayLineColour = "172,168,153,0,11"
-			DayTextColour = "0,0,0,0,9"
-			WeekendFillColour = "255,255,255,0,6"
-			WeekendLineColour = "172,168,153,0,11"
-			WeekendTextColour = "0,0,0,0,9"
-			TrailingFillColour = "255,255,255,0,6"
-			TrailingLineColour = "164,185,127,0,12"
-			TrailingTextColour = "161,161,146,0,18"
-			SelFillColour = "147,160,112,0,14"
-			SelLineColour = "147,160,112,0,14"
-			SelTextColour = "255,255,255,0,15"
-			TrailingSelFillColour = "147,160,112,0,14"
-			TrailingSelLineColour = "147,160,112,0,14"
-			TrailingSelTextColour = "255,255,255,0,15"
-			TodayFillColour = "255,255,255,0,6"
-			TodayLineColour = "255,0,0,0,0"
-			TodayTextColour = "0,0,0,0,9"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			BorderSize = "1"
-			TitleBorderSize = "0"
-			TitleHeight = "30"
-			CellBorderSize = "0"
-			CellWidth = "25"
-			CellHeight = "15"
-			HorzCellSpacing = "0"
-			VertCellSpacing = "0"
-			HorzMonthSpacing = "6"
-			VertMonthSpacing = "6"
-			Rows = "1"
-			Cols = "1"
-			DayOfWeekChars = "3"
-			HighlightToday = "1"
-			ShowToday = "1"
-			ShowWeekNumbers = "1"
-			ShowWeeksLine = "1"
-			ShowDaysLine = "1"
-			ShowTrailingDays = "1"
-			ShowBetweenDays = "0"
-			SetInitialMonth = "0"
-			SetSelectedDate = "0"
-			WeekStartsOn = "0"
-			WeekendStartsOn = "5"
-			WeekendLength = "2"
-			FirstYear = "2012"
-			FirstMonth = "9"
-			SelectedYear = "2012"
-			SelectedMonth = "9"
-			SelectedDay = "25"
-			SelectedCount = "1"
-			IsDisabled = "0"
-			HorzAlign = "Centre"
-			VertAlign = "Centre"/>
-		<Element
-			CID = "1926371997"
+			CID = "2132236647"
 			Type = "Table"
-			X = "70"
-			Y = "266"
+			X = "173"
+			Y = "143"
 			Width = "599"
 			Height = "276"
 			Flags = "0"
@@ -139,7 +57,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			NextColumnID = "28"
+			NextColumnID = "29"
 			IsFlat = "0"
 			IsHeaderBold = "0"
 			IsTransparent = "0"
@@ -174,8 +92,8 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "7"
-					Heading = "岗位编号"
-					Width = "80"
+					Heading = "编号"
+					Width = "60"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -188,49 +106,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "3"
-					Heading = "岗位名称"
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "22"
-					Heading = "人员名称"
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "24"
-					Heading = "所属厂区名称"
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "25"
-					Heading = "别名"
+					Heading = "姓名"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -244,7 +120,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "27"
-					Heading = "所属巡检任务"
+					Heading = "别名"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -257,8 +133,8 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "9"
-					Heading = ""
+					ColumnID = "24"
+					Heading = "所属岗位"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -271,8 +147,8 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "10"
-					Heading = ""
+					ColumnID = "25"
+					Heading = "所属厂区"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -285,8 +161,8 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "12"
-					Heading = ""
+					ColumnID = "26"
+					Heading = "员工标牌"
 					Width = "80"
 					HeaderMargin = "0"
 					CellMargin = "0"
@@ -317,57 +193,9 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-				</Row>
-				<Row
-					IsSelected = "0">
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 					<Cell>
 						
 					</Cell>
@@ -407,15 +235,6 @@
 					<Cell>
 						
 					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
-					<Cell>
-						
-					</Cell>
 				</Row>
 				<Row
 					IsSelected = "0">
@@ -428,6 +247,18 @@
 					<Cell>
 						
 					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
 					<Cell>
 						
 					</Cell>
@@ -450,102 +281,36 @@
 			</Data>
 		</Element>
 		<Element
-			CID = "1926381265"
+			CID = "2132234904"
 			Type = "StaticText"
-			X = "79"
-			Y = "-5"
+			X = "166"
+			Y = "112"
 			Width = "77"
-			Height = "31"
+			Height = "16"
 			Flags = "0"
 			FillColour = "236,233,216,0,16"
 			TextColour = "0,0,0,0,19"
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "岗位名称：&#13;&#10;"
-			IsDisabled = "0"
-			Fill = "None"
-			HorzAlign = "Left"
-			VertAlign = "Centre"/>
-		<Element
-			CID = "1926393947"
-			Type = "StaticText"
-			X = "81"
-			Y = "215"
-			Width = "100"
-			Height = "40"
-			Flags = "0"
-			FillColour = "236,233,216,0,16"
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "新建岗位信息"
+			Text = "已有人员信息"
 			IsDisabled = "0"
 			Fill = "None"
 			HorzAlign = "Centre"
 			VertAlign = "Centre"/>
 		<Element
-			CID = "1926366328"
+			CID = "2132231781"
 			Type = "HorizontalSeparatorLine"
-			X = "81"
-			Y = "203"
-			Width = "597"
+			X = "252"
+			Y = "116"
+			Width = "521"
 			Height = "12"
 			Flags = "2"/>
 		<Element
-			CID = "1926366304"
-			Type = "StaticText"
-			X = "310"
-			Y = "-16"
-			Width = "100"
-			Height = "40"
-			Flags = "0"
-			FillColour = "236,233,216,0,16"
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "所属巡检任务："
-			IsDisabled = "0"
-			Fill = "None"
-			HorzAlign = "Centre"
-			VertAlign = "Centre"/>
-		<Element
-			CID = "1926392987"
-			Type = "EditBox"
-			X = "156"
-			Y = "-12"
-			Width = "130"
-			Height = "21"
-			Flags = "2"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = ""
-			IsDisabled = "0"
-			IsReadOnly = "0"
-			HorzAlign = "Left"
-			EditType = "Text"
-			OverrideTextColour = "0"
-			OverrideDisabledTextColour = "0"
-			OverrideFillColour = "0"
-			OverrideDisabledFillColour = "0"
-			OverrideBorderColour = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			TextColour = "0,0,0,0,9"
-			DisabledTextColour = "161,161,146,0,18"
-			FillColour = "255,255,153,0,0"
-			DisabledFillColour = "236,233,216,0,16"
-			BorderColour = "164,185,127,0,12"/>
-		<Element
-			CID = "1926391300"
+			CID = "2132222426"
 			Type = "TextButton"
-			X = "142"
-			Y = "152"
+			X = "663"
+			Y = "34"
 			Width = "75"
 			Height = "23"
 			Flags = "0"
@@ -553,7 +318,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "新建"
+			Text = "保存"
 			Depth = "2"
 			IsDefault = "0"
 			IsDisabled = "0"
@@ -563,10 +328,10 @@
 			MarginBottom = "0"
 			AutoNavType = ""/>
 		<Element
-			CID = "1926391209"
+			CID = "2132227975"
 			Type = "TextButton"
-			X = "270"
-			Y = "153"
+			X = "664"
+			Y = "-43"
 			Width = "75"
 			Height = "23"
 			Flags = "0"
@@ -584,29 +349,29 @@
 			MarginBottom = "0"
 			AutoNavType = "Cancel"/>
 		<Element
-			CID = "1926388875"
+			CID = "2139819098"
 			Type = "StaticText"
-			X = "319"
-			Y = "51"
-			Width = "77"
-			Height = "31"
-			Flags = "16384"
+			X = "192"
+			Y = "-42"
+			Width = "73"
+			Height = "15"
+			Flags = "0"
 			FillColour = "236,233,216,0,16"
 			TextColour = "0,0,0,0,19"
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "所属厂区名称："
+			Text = "姓名：&#13;&#10;"
 			IsDisabled = "0"
 			Fill = "None"
 			HorzAlign = "Left"
 			VertAlign = "Centre"/>
 		<Element
-			CID = "1926375970"
+			CID = "2139819363"
 			Type = "EditBox"
-			X = "416"
-			Y = "56"
-			Width = "133"
+			X = "281"
+			Y = "-43"
+			Width = "224"
 			Height = "21"
 			Flags = "2"
 			Typeface = ""
@@ -632,65 +397,83 @@
 			DisabledFillColour = "236,233,216,0,16"
 			BorderColour = "164,185,127,0,12"/>
 		<Element
-			CID = "1926377369"
+			CID = "2139841349"
 			Type = "StaticText"
-			X = "78"
-			Y = "39"
-			Width = "77"
-			Height = "21"
-			Flags = "16384"
+			X = "192"
+			Y = "-3"
+			Width = "41"
+			Height = "15"
+			Flags = "0"
 			FillColour = "236,233,216,0,16"
 			TextColour = "0,0,0,0,19"
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "人员名称："
+			Text = "别名：&#13;&#10;"
 			IsDisabled = "0"
 			Fill = "None"
 			HorzAlign = "Left"
 			VertAlign = "Centre"/>
 		<Element
-			CID = "1926366643"
+			CID = "2139828697"
 			Type = "EditBox"
-			X = "155"
-			Y = "39"
-			Width = "130"
-			Height = "21"
-			Flags = "2"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = ""
-			IsDisabled = "0"
-			IsReadOnly = "0"
-			HorzAlign = "Left"
-			EditType = "Text"
-			OverrideTextColour = "0"
-			OverrideDisabledTextColour = "0"
-			OverrideFillColour = "0"
-			OverrideDisabledFillColour = "0"
-			OverrideBorderColour = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			TextColour = "0,0,0,0,9"
-			DisabledTextColour = "161,161,146,0,18"
-			FillColour = "255,255,153,0,0"
-			DisabledFillColour = "236,233,216,0,16"
-			BorderColour = "164,185,127,0,12"/>
-		<Element
-			CID = "1926397013"
-			Type = "ComboBox"
-			X = "418"
+			X = "281"
 			Y = "-7"
-			Width = "132"
+			Width = "224"
 			Height = "21"
 			Flags = "2"
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "所属巡检任务"
+			Text = ""
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "2139816931"
+			Type = "StaticText"
+			X = "192"
+			Y = "36"
+			Width = "78"
+			Height = "15"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "所属在岗位：&#13;&#10;"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "2139818278"
+			Type = "ComboBox"
+			X = "281"
+			Y = "32"
+			Width = "142"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "请选择岗位"
 			IsDisabled = "0"
 			IsEditable = "0"
 			IsFlat = "0"
@@ -707,54 +490,6 @@
 			FillColour = "240,240,255,0,0"
 			DisabledFillColour = "236,233,216,0,16"
 			BorderColour = "192,192,255,0,0"/>
-		<Element
-			CID = "788731779"
-			Type = "StaticText"
-			X = "55"
-			Y = "74"
-			Width = "100"
-			Height = "40"
-			Flags = "0"
-			FillColour = "236,233,216,0,16"
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "别名："
-			IsDisabled = "0"
-			Fill = "None"
-			HorzAlign = "Centre"
-			VertAlign = "Centre"/>
-		<Element
-			CID = "788743349"
-			Type = "EditBox"
-			X = "155"
-			Y = "86"
-			Width = "130"
-			Height = "21"
-			Flags = "2"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = ""
-			IsDisabled = "0"
-			IsReadOnly = "0"
-			HorzAlign = "Left"
-			EditType = "Text"
-			OverrideTextColour = "0"
-			OverrideDisabledTextColour = "0"
-			OverrideFillColour = "0"
-			OverrideDisabledFillColour = "0"
-			OverrideBorderColour = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			TextColour = "0,0,0,0,9"
-			DisabledTextColour = "161,161,146,0,18"
-			FillColour = "255,255,153,0,0"
-			DisabledFillColour = "236,233,216,0,16"
-			BorderColour = "164,185,127,0,12"/>
 	</Elements>
 	<Connections
 		CID = "2"/>
@@ -765,7 +500,7 @@
 	<Notes
 		CID = "5">
 		<Note
-			CID = "1926391890"
+			CID = "2132228313"
 			Name = "Description"
 			NextCID = "2">
 			<Text
